@@ -1,0 +1,57 @@
+.home {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.title {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: fit-content;
+    left: 0;
+    right: 50%;
+    width: fit-content;
+}
+
+.Karan-Gandhi-text.headder {
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.subtitle.subheadder {
+    font-size: 20px;
+}
+
+.button-surface {
+    padding: 14px;
+    width: fit-content;
+    height: fit-content;
+    background-color: #39447a;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 100px;
+    margin-top: 60px;
+    cursor: pointer;
+}
+
+.about-me-text.button {
+    color: white;
+    font-size: 14px;
+}
+
+.Headder-img {
+    position: absolute;
+    height: fit-content;
+    width: fit-content;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    right: 0;
+    margin: auto;
+}
+
+img.headder-img {
+    width: 400px;
+}

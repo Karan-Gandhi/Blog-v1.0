@@ -1,0 +1,37 @@
+.about-me {
+    position: absolute;
+    top: 100%;
+}
+
+.container.aboutme {
+    width: 50%;
+    margin-left: 50px;
+}
+
+.titleabtme.aboutme {
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+.abm.content {
+    line-height: 2;
+    word-spacing: 3px;
+}
+
+.abtme.img.container {
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    right: 0%;
+    margin: auto;
+}
+
+img.about-meImg.img {
+    width: 480px;
+    margin-left: 70px;
+    margin-top: 50px;
+}

@@ -1,0 +1,58 @@
+div#homecnt {
+    width: 80%;
+    height: 100%;
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.home_left_align_content {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+}
+
+.hello_i_am {
+    font-size: 32px;
+    font-weight: 500;
+    width: fit-content;
+    height: fit-content;
+}
+
+.KaranGandhi {
+    font-size: 48px;
+    font-weight: 900;
+    width: fit-content;
+    height: fit-content;
+}
+
+.profession {
+    font-size: 18px;
+    font-weight: 500;
+    width: fit-content;
+    height: fit-content;
+}
+
+.about_me_btn {
+    width: fit-content;
+    height: fit-content;
+    margin-top: 15px;
+}
+
+.home_right_aligned_content {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+}
+
+img.home_image {
+    width: 80%;
+    margin-left: 20%;
+}
